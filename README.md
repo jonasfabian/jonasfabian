@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://jonasfabian.dev/"><img src="https://github-readme-stats.vercel.app/api?username=jonasfabian&show_icons=true&hide=stars" alt="My GitHub Stats" /></a>
   <a href="https://jonasfabian.dev/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfabian&layout=compact" alt="My Languages" /></a>
+  <a href="https://jonasfabian.dev/"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" alt="My Languages" /></a>
 </p>
 
 <!--
